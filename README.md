@@ -20,7 +20,8 @@ Mediapipe 的骨架模型：
 <br>
 Sit_to_stand 的關鍵點：右側：12, 14, 16/ 左側：11, 13, 15，此次程式碼取「右側」作為關鍵點偵測。
 <br>
-
+<br>
+<br>
 <h3>6.mov 影片讀取結果：</h3>
 程式碼運行畫面<br>
 
@@ -30,7 +31,8 @@ Sit_to_stand 的關鍵點：右側：12, 14, 16/ 左側：11, 13, 15，此次程
 
 ![](https://imgur.com/kVSayuH.png)<br>
 <br>
-
+<br>
+<br>
 <h3>運行全部程式碼：</h3>
 https://youtu.be/C9ue8Oc9A8M
 <br>
