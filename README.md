@@ -23,14 +23,11 @@ Sit_to_stand 的關鍵點：右側：12, 14, 16/ 左側：11, 13, 15，此次程
 <br>
 <br>
 <h3>6.mov 影片讀取結果：</h3>
-程式碼運行畫面<br>
-<br>
 
+程式碼運行畫面<br>
 ![](https://imgur.com/HQbCSQ0.png)<br>
 <br>
 程式碼運行完結果<br>
-<br>
-
 ![](https://imgur.com/kVSayuH.png)<br>
 <br>
 <br>
