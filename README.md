@@ -16,6 +16,9 @@ Sit to Stand 2023/12/5-2023/12/7&ensp; </td></tr></table></font>
 Mediapipe 的骨架模型：
 <br>
 <br>
+
+![](https://imgur.com/C98MGPb.png)<br>
+<br>
 Sit_to_stand 的關鍵點：右側：12, 14, 16/ 左側：11, 13, 15，此次程式碼取「右側」作為關鍵點偵測。
 <br>
 
